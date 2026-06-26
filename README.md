@@ -88,7 +88,7 @@ Donde la suma de cuadrados de los residuos ($SS_{res}$) y la suma total de cuadr
 
 Al ser una aplicación basada puramente en el cliente (client-side), no requiere instalación de dependencias en el servidor ni configuraciones complejas de entorno (como Node.js o Python).
 
-Al inicio de esta documentación esté el enlace a la app para que hagas uso de ella.
+Al inicio de la documentación está el enlace a la app para que hagas uso de ella.
 
 Descarga el archivo index.html.
 
