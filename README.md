@@ -1,11 +1,12 @@
 # Modelo-Predictivo
 Modelo predictivo implementando regresión para predecir números, tome de ejemplo una base de datos midiendo la  satisfacción del cliente, para predecir según la edad y el tiempo de espera la satisfacción.
 
-StatBlue Analytics 📊📈
+
+# StatBlue Analytics 📊📈
 
 StatBlue Analytics es una potente y sofisticada aplicación web interactiva desarrollada para el análisis estadístico descriptivo y modelado predictivo multivariable. Diseñada con una estética premium en tonos azul corporativo, la aplicación permite a analistas y tomadores de decisiones importar datos, explorar distribuciones, calcular estadísticos avanzados en tiempo real y simular escenarios futuros de forma 100% local y segura.
 
-🌟 Características Principales
+# 🌟 Características Principales
 
 Lienzo desde Cero e Importación Inteligente (CSV/Excel): Inicio libre de datos para total flexibilidad. Integra la librería SheetJS para leer y procesar instantáneamente archivos de Excel (.xlsx, .xls) y de texto plano (.csv) de manera local en el navegador.
 
@@ -35,7 +36,7 @@ Simulador Predictivo en Vivo: Controles deslizantes (sliders) generados de forma
 
 Asistente Inteligente de Satisfacción: Si el dataset contiene las variables Edad, Tiempo_Espera_Min y Puntaje_Satisfaccion, se activa un asistente de creación rápida que entrena un submodelo específico, proyecta la satisfacción en una escala estricta de 0 a 5 y muestra su exactitud ($R^2$).
 
-🛠️ Stack Tecnológico
+# 🛠️ Stack Tecnológico
 
 Frontend: HTML5, CSS3 con Tailwind CSS (Paleta personalizada Premium Blue).
 
@@ -47,7 +48,7 @@ Motor de Hojas de Cálculo: SheetJS (xlsx) para análisis e interpretación loca
 
 Algoritmos Matemáticos: JavaScript puro (Álgebra lineal para resolución de ecuaciones normales y pivoteo parcial por eliminación Gauss-Jordan).
 
-🤖 Desarrollo Asistido por IA
+# 🤖 Desarrollo Asistido por IA
 
 Este proyecto ha sido diseñado, estructurado y optimizado con la valiosa colaboración de Gemini (Google), quien asistió activamente en:
 
@@ -57,7 +58,7 @@ La optimización del flujo interactivo y diseño responsivo de la interfaz de us
 
 La depuración y estructuración del código bajo la arquitectura limpia de un solo archivo (Single-File Application).
 
-📐 Fundamento Matemático del Motor Predictivo
+# 📐 Fundamento Matemático del Motor Predictivo
 
 El motor predictivo calcula el vector de coeficientes óptimos $\hat{\beta}$ utilizando la ecuación general de Mínimos Cuadrados Ordinarios (MCO):
 
@@ -79,7 +80,7 @@ $$R^2 = 1 - \frac{SS_{res}}{SS_{tot}}$$
 
 Donde la suma de cuadrados de los residuos ($SS_{res}$) y la suma total de cuadrados ($SS_{tot}$) se determinan sobre la muestra completa en tiempo real.
 
-🚀 Instalación y Ejecución
+# 🚀 Instalación y Ejecución
 
 Al ser una aplicación basada puramente en el cliente (client-side), no requiere instalación de dependencias en el servidor ni configuraciones complejas de entorno (como Node.js o Python).
 
@@ -89,7 +90,7 @@ Descarga el archivo index.html.
 
 ¡Listo! Sube tu archivo CSV/Excel o haz clic en "Cargar Datos de Prueba" para experimentar con la herramienta.
 
-📁 Estructura del Archivo
+# 📁 Estructura del Archivo
 
 El proyecto está diseñado bajo el patrón de Single-File Application, garantizando la portabilidad absoluta del sistema:
 
@@ -97,7 +98,7 @@ El proyecto está diseñado bajo el patrón de Single-File Application, garantiz
 
 
 
-🤝 Contribuciones
+# 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras algún problema o deseas añadir una mejora matemática o visual:
 
@@ -111,6 +112,6 @@ Haz Push a la rama (git push origin feature/NuevaCaracteristica).
 
 Abre un Pull Request.
 
-📄 Licencia
+# 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Siéntete libre de utilizarlo, modificarlo y adaptarlo a tus necesidades corporativas o académicas.
