@@ -5,6 +5,7 @@ Modelo predictivo implementando regresión para predecir números, tome de ejemp
 
 https://share.gemini.google/tKuV3gQ4bJ6y
 
+
 # StatBlue Analytics 📊📈
 
 StatBlue Analytics es una potente y sofisticada aplicación web interactiva desarrollada para el análisis estadístico descriptivo y modelado predictivo multivariable. Diseñada con una estética premium en tonos azul corporativo, la aplicación permite a analistas y tomadores de decisiones importar datos, explorar distribuciones, calcular estadísticos avanzados en tiempo real y simular escenarios futuros de forma 100% local y segura.
